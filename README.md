@@ -58,4 +58,5 @@ Les bibliothèques Python requises sont listées dans le fichier `requirements.t
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/TonNomUtilisateur/Gestion_Financiere.git
+git clone https://github.com/Louis023lol/Gestion_Financiere.git
+

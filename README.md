@@ -59,3 +59,9 @@ Les bibliothèques Python requises sont listées dans le fichier `requirements.t
 ```bash
 git clone https://github.com/Louis023lol/Gestion_Financiere.git
 
+### Bibliothèques utilisées
+- **math** : Bibliothèque native de Python, aucune installation requise.
+- **pandas** : Manipulation des données tabulaires.
+- **matplotlib** : Création de graphiques.
+- **notebook** : Exécution des fichiers Jupyter Notebook.
+

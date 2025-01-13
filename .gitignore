@@ -1,0 +1,25 @@
+# Exclure l'environnement virtuel
+venv/
+Venv_Gestion_Finance/
+Lib/
+Scripts/
+share/
+etc/
+
+# Exclure les fichiers générés par Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclure les fichiers personnels ou de configuration
+.idea/
+.vscode/
+*.cfg
+*.env
+
+# Exclure les fichiers spécifiques au système
+.DS_Store
+Thumbs.db
+
+# Exclure les fichiers de logs et caches
+*.log

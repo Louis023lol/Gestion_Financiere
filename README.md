@@ -1,5 +1,3 @@
-# Code pour générer un fichier README.md
-
 # Gestion Financiere
 
 Ce projet est une analyse approfondie des concepts financiers à court terme. Il implémente plusieurs méthodes classiques tirées du livre "Gestion financière à court terme et éléments de théorie financière" de Faouzi Rassi, à l'aide de Python et de Jupyter Notebook.
@@ -13,6 +11,7 @@ Ce projet est une analyse approfondie des concepts financiers à court terme. Il
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
 - [Crédits](#crédits)
+- [Notes](#notes)
 
 ---
 
@@ -52,16 +51,16 @@ Avant de cloner et d'exécuter ce projet, assurez-vous d'avoir installé :
 
 Les bibliothèques Python requises sont listées dans le fichier `requirements.txt`.
 
+### Bibliothèques utilisées
+
+- **math** : Bibliothèque native de Python, aucune installation requise.
+- **pandas** : Manipulation des données tabulaires.
+- **matplotlib** : Création de graphiques.
+- **notebook** : Exécution des fichiers Jupyter Notebook.
+
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
 git clone https://github.com/Louis023lol/Gestion_Financiere.git
-
-### Bibliothèques utilisées
-- **math** : Bibliothèque native de Python, aucune installation requise.
-- **pandas** : Manipulation des données tabulaires.
-- **matplotlib** : Création de graphiques.
-- **notebook** : Exécution des fichiers Jupyter Notebook.
-

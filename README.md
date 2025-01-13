@@ -1,6 +1,5 @@
 # Code pour générer un fichier README.md
 
-contenu_readme = """
 # Gestion Financiere
 
 Ce projet est une analyse approfondie des concepts financiers à court terme. Il implémente plusieurs méthodes classiques tirées du livre "Gestion financière à court terme et éléments de théorie financière" de Faouzi Rassi, à l'aide de Python et de Jupyter Notebook.
